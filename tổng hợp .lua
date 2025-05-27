@@ -39,6 +39,7 @@ local Tabs = {
         Main2=Window:AddTab({ Title="script grow a garden" }),
           Main3=Window:AddTab({ Title="script blue lock" }),
               Main4=Window:AddTab({ Title="script doors" }),
+                            Main5=Window:AddTab({ Title="script dead rails" }),
 }
 Tabs.Main0:AddButton({
     Title = "Discord Thế Anh",
@@ -829,10 +830,141 @@ Title="хаос",
   end    
 })
 
-Tabs.Main5:AddButton({
-Title="ko b",
-    Description="get key",
+    Tabs.Main5:AddButton({
+    Title="ko biết",
+    Description="",
     Callback=function()
-loadstring(game:HttpGet("https://rawscripts.net/raw/Dead-Rails-Alpha-Best-keyless-op-script-insta-kill-mobs-31507"))()
-end
-})
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpineWare/UniversalLoader/refs/heads/main/Load"))()
+    end
+    })
+    Tabs.Main5:AddButton({
+  Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/8rwA08Ch"))
+
+  
+    end
+    })
+    Tabs.Main5:AddButton({
+    Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://rifton.top/loader.lua"))()
+
+  
+    end
+    })
+    Tabs.Main5:AddButton({
+    Title="MainHub",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://nicuse.xyz/MainHub.lua"))()
+    end
+    })
+    Tabs.Main5:AddButton({
+    Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))()
+    end
+    })
+    Tabs.Main5:AddButton({
+    Title="ko biết",
+    Description="",
+    Callback=function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownlodfc/Zephyr/refs/heads/main/DeadRails/Main"))()
+    end
+    })
+    Tabs.Main5:AddButton({
+    Title="MicroHub",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TrustsenseDev/MicroHub/refs/heads/main/loader.lua"))()
+    end
+    })
+    Tabs.Main5:AddButton({
+    Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))()
+    end
+    })
+    Tabs.Main5:AddButton({
+    Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRailsAuto"))()
+    end
+    })
+   Tabs.Main5:AddButton({
+    Title="DHHz-hub",
+    Description="",
+    Callback=function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/ducknovis/DHHz-hub/refs/heads/main/Dead-Rails.lua"))()
+    end
+    })
+Tabs.Main5:AddButton({
+Title="DeadRailsFarm",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mrpopcatfrombupge/FernHub/refs/heads/main/DeadRailsFarm", true))()
+    end
+    })
+Tabs.Main5:AddButton({
+Title="TbaoHub",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubDeadRails"))()
+    end
+    })
+Tabs.Main5:AddButton({
+  Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader", true))()
+    end
+    })
+Tabs.Main5:AddButton({
+  Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Markklol/AnimalSimulator/refs/heads/main/DRails.lua"))()
+    end
+    })
+Tabs.Main5:AddButton({
+  Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"))()
+    end
+    })
+Tabs.Main5:AddButton({
+  Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader", true))()
+    end
+    })
+Tabs.Main5:AddButton({
+Title="SpiderXHub",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiderScriptRB/Dead-Rails-SpiderXHub-Script/refs/heads/main/SpiderXHub%202.0.txt"))()
+    end
+    })
+Tabs.Main5:AddButton({
+  Title="ko biết",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRails", true))()
+    end
+    })
+Tabs.Main5:AddButton({
+Title="Speed-Hub-X",
+    Description="",
+    Callback=function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+    end
+    })
+    
